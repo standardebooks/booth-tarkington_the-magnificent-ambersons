@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/booth-tarkington/the-magnificent-ambersons</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-06-15T03:40:12Z</dc:date>
+		<meta property="dcterms:modified">2017-06-15T03:40:12Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,17 +36,19 @@
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/8867</meta>
 		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/8867</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The scion of an old-money Midwestern family must cope with their waning fortunes and the changes brought on by industry and the automobile age.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Magnificent Ambersons&lt;/i&gt;, winner of the 1919 Pulitzer prize, is considered by many to be Booth Tarkington’s finest novel and an American classic.  The story is set in the Midwest, where George, the spoiled and oblivious scion of an old-money family, must cope with their waning fortunes and the rise of industry barons in the automobile age.&lt;/p&gt;
+			&lt;p&gt;George’s antiheroic struggles with modernity encapsulate a greater theme of change and renewal—specifically, the very American notion of a small community exploding into a dark and dirty city virtually overnight by virtue of industrial “progress.”  Tarkington’s nuanced portrayal of the often-unlikable Amberson family and his paradoxical framing of progress as a destroyer of family, community, and environment, make &lt;i&gt;The Magnificent Ambersons&lt;/i&gt; a fascinating and forward-thinking novel—certainly one with a permanent place in the American social canon.  Despite the often heavy themes, Tarkington’s prose remains uniquely witty, charming, and brisk.&lt;/p&gt;
+			&lt;p&gt;The novel is the second in Tarkington’s “Growth” trilogy of novels, and has been adapted several times for radio, film, and television, including a 1942 Orson Welles adaptation that many consider one of the finest American films ever made.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8867</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100326885</dc:source>
 		<meta property="se:production-notes">Unusual quotation in early chapters is preserved as a matter of prose style.</meta>
-		<meta property="se:word-count">103571</meta>
+		<meta property="se:word-count">103581</meta>
 		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Magnificent_Ambersons</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booth-tarkington_the-magnificent-ambersons</meta>
