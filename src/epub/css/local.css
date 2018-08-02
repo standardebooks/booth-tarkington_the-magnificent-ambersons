@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -55,7 +51,6 @@ td{
 }
 
 blockquote header p{
-	text-align: center;
 	font-variant: small-caps;
 }
 
