@@ -54,6 +54,9 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2010113466</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">100</meta>
 		<dc:description id="description">The scion of an old-money Midwestern family must cope with their waning fortunes and the changes brought on by industry and the automobile age.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Magnificent Ambersons&lt;/i&gt;, winner of the 1919 Pulitzer prize, is considered by many to be &lt;a href="https://standardebooks.org/ebooks/booth-tarkington"&gt;Booth Tarkington’s&lt;/a&gt; finest novel and an American classic. The story is set in the Midwest, where George, the spoiled and oblivious scion of an old-money family, must cope with their waning fortunes and the rise of industry barons in the automobile age.&lt;/p&gt;
