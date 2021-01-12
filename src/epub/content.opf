@@ -73,7 +73,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/8867</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100326885</dc:source>
 		<meta property="se:production-notes">Unusual quotation in early chapters is preserved as a matter of prose style.</meta>
-		<meta property="se:word-count">103589</meta>
+		<meta property="se:word-count">103591</meta>
 		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Magnificent_Ambersons</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booth-tarkington_the-magnificent-ambersons</meta>
