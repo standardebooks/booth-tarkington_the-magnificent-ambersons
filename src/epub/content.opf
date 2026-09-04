@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Magnificent Ambersons</dc:title>
 		<meta property="file-as" refines="#title">Magnificent Ambersons, The</meta>
-		<dc:subject id="subject-1">Inheritance and succession -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Inheritance and succession--Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<dc:subject id="subject-3">Indiana -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Indiana--Fiction</dc:subject>
 		<dc:subject id="subject-4">Domestic fiction</dc:subject>
-		<dc:subject id="subject-5">Children of the rich -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Mothers and sons -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Loss (Psychology) -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Social change -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Children of the rich--Fiction</dc:subject>
+		<dc:subject id="subject-6">Mothers and sons--Fiction</dc:subject>
+		<dc:subject id="subject-7">Loss (Psychology)--Fiction</dc:subject>
+		<dc:subject id="subject-8">Social change--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008104235</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
